@@ -1,0 +1,16 @@
+.head {
+    /* border-radius: 50%;
+    background-size: 50% 50%; */
+    background-image: url("head.jpg");
+}
+
+.tail {
+    /* border-radius: 50%;
+    background-size: 50% 50%; */
+    background-image: url("tail.png");
+}
+
+img {
+    height: 30%;
+    width: 30%;
+}
